@@ -1,0 +1,18 @@
+{
+  "name": "countwords",
+  "version": "1.0.0",
+  "description": "Count the number of word occurrences and get synonyms and pos",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddhant",
+  "license": "ISC"
+}
